@@ -13,6 +13,7 @@ L’utilisation de ce imprimante est donc prévue sur une durée de 5 ans.
 
 L’administration fiscale a décidé d’une durée d’amortissement fiscal de 4 ans pour ce type de biens. Sachant que l’exercice comptable de Leblanc se clôture le 2018-12-31, répondez aux questions suivantes :
 
+
 |  dazd | dadza |
 |--|--|
 |  dza  azd azd |  dzadza |
@@ -23,7 +24,7 @@ L’administration fiscale a décidé d’une durée d’amortissement fiscal de
 |a|b|
 
 | Label | Base | Taux | Valeur |
-|-|-|-|-|
+|--|--|--|--|
 | N | 20000 | 0.15 | 17000 | 
 | N+1 | 20000 | 0.2 | 13000 | 
 | N+2 | 20000 | 0.25 | 8000 | 
@@ -33,6 +34,6 @@ L’administration fiscale a décidé d’une durée d’amortissement fiscal de
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IGR6YWR6YWRcbmF1dGhvcj
 ogUGllcnJlQWxhaW5cbmV4dGVuc2lvbnM6XG4gIHByZXNldDog
-emVyb1xuIiwiaGlzdG9yeSI6Wy0xMTc1NjI5ODU1LDIxMDUwOD
+emVyb1xuIiwiaGlzdG9yeSI6Wy0xMjYyNzQzNTY5LDIxMDUwOD
 c5MzYsNTk4OTMwMjc0LDE3MTE0NTExMjhdfQ==
 -->
