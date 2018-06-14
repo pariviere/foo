@@ -1,15 +1,20 @@
 # Welcome to StackEdit!
 
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. If you have finished with me, you can just create new files by opening the **file explorer** on the left corner of the navigation bar.
+
+L’entreprise **Leblanc** a acquis le 2018-01-10 un imprimante, mise en service le 2018-03-04 du même exercice. 
+
+Les données-constructeur concernant ce imprimante indiquent qu’il serait capable de réaliser un total de 100000  avant sa mise au rébus. On s’attend à exploiter ce imprimante de la\nfaçon suivante :
+
+ - 10000  en N
+ - 25000  en N
+ - 30000  en N
+ - 250000  en N
+ - 10000  en N
 
 
-Mon entreprise {{raisonSociale}} dzakdjza kjd za
-dza klza kdlzakd
+L’utilisation de ce imprimante est donc prévue sur une durée de 5 ans. 
 
-- dza 
-- dza za d
-- dza da
-
+L’administration fiscale a décidé d’une durée d’amortissement fiscal de 4 ans pour ce type de biens. Sachant que l’exercice comptable de Leblanc se clôture le 2018-12-31, répondez aux questions suivantes :
 
 
 
@@ -154,6 +159,6 @@ C --> D
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IGR6YWR6YWRcbmF1dGhvcj
 ogUGllcnJlQWxhaW5cbmV4dGVuc2lvbnM6XG4gIHByZXNldDog
-emVyb1xuIiwiaGlzdG9yeSI6WzU5ODkzMDI3NCwxNzExNDUxMT
-I4XX0=
+emVyb1xuIiwiaGlzdG9yeSI6WzIxMDUwODc5MzYsNTk4OTMwMj
+c0LDE3MTE0NTExMjhdfQ==
 -->
