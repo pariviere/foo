@@ -1,0 +1,29 @@
+enum ContactMean {
+    SMS, CALL, EMAIL
+}
+
+entity Concentement {
+	contentementKey String // {msisdn}, {email}, ...
+    contactMean ContactMean
+    accord Boolean
+    date Instant
+}
+
+entity MessageType {
+    id String
+   	label String
+}
+
+relationship OneToOne {
+	Concentement{messageType} to MessageType
+}
+
+// Set pagination options
+paginate MessageType with infinite-scroll
+paginate Concentement with pagination
+
+// Use Data Transfert Objects (DTO)
+// dto * with mapstruct
+
+// Set service options to all except few
+service all with serviceImpl //except Employee, Job
